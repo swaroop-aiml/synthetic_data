@@ -1,1 +1,1 @@
-# synthetic_data
+# Synthetic Data Generation using Variational Auto Encoder
